@@ -51,7 +51,6 @@ source: https://lgsecurity.lge.com/bulletins/mobile#updateDetails
 ## Acknowledgements
 ### @vxunderground for providing the samples
 ### @recordedfuture for sample validation
-### @silascutler - Silas Cutler - Security Researcher (Malware / Reverse Engineering / Exploitation) Formerly CrowdStrike/Dell SecureWorks, Chronicle, Google) - Document Reference
 ### @botherder Claudio Guarnieri  - (Head of Security Lab at Amnesty International) - 2013 Product Manual
 
     
